@@ -2,9 +2,9 @@ class Rubber{
 	constructor(x,y,r)
 	{
 		var options={
-			restitution:0.3,
-			friction:5,
-			density:1
+			//add physical properties
+			
+			
 		}
 		this.x=x;
 		this.y=y;
